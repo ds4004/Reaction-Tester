@@ -1,0 +1,18 @@
+#shape {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+#boundry {
+    border: solid black 2px;
+    margin: 0px;
+    width: 1250px;
+    height: 470px;
+}
+table {
+    width: 100%;
+    text-align: left;
+    padding-bottom: 10px;
+}
