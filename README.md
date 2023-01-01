@@ -22,7 +22,7 @@ Javascript, HTML, CSS...
 
 ## Important information
 
-- Prefered to use this website in 100% zoom of the browser as still need to make the website responsive.
+- Because the website's responsiveness is still being improved, it is best viewed on a desktop screen with 100% browser zoom. 
 
 
 ## Acknowledgements
