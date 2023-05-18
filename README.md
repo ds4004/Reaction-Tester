@@ -1,7 +1,7 @@
 
 # Reaction-Tester
 
-This website measures the time a user take to click a displayed object.
+Some shapes are displayed on the website, requiring the player to click on them. The website then measures the time it takes for the player to click on the displayed object.
 
 
 # Hi, I'm Dhrumi! 👋
